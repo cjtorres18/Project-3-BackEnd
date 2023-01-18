@@ -1,0 +1,23 @@
+private Long id;
+	private String name;
+	private String brand;
+	private String imageUrl;
+	private String barcode;
+
+
+{ 
+	"name": "Apple",
+	"brand": "Juicy Fruits",
+}
+{
+	"name": "Peach",
+	"brand": "Juicy Fruits",
+}
+{
+	"name": "Bananas",
+	"brand": "Juicy Fruits",
+}
+{
+	"name": "Pears",
+	"brand": "Juicy Fruits",
+}
